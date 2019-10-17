@@ -158,6 +158,8 @@ public class TestRunner {
         tests.add(new TestCase(image2, intensityWeight2, prunedWeight2));
         tests.add(new TestCase(image3, intensityWeight3, prunedWeight3));
         tests.add(new TestCase(image4, intensityWeight4, prunedWeight4));
+        tests.add(new TestCase(image5, intensityWeight5, prunedWeight5));
+        tests.add(new TestCase(image6, intensityWeight6, prunedWeight6));
 
 
 
